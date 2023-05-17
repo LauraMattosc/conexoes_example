@@ -50,7 +50,7 @@ with col2:
 
 
 #O dataframe que será utilizado para os doadores.
-df = pd.read_csv("dataset_1.csv")
+df = pd.read_csv("dataset.csv", encoding='latin-1')
 
 
 container1 = st.container()
