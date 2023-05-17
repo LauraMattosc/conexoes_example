@@ -1,12 +1,11 @@
-PESSOA,TEMA,LADO,LINKEDIN
-João Silva,Marketing Digital,Oferta,linkedin.com/in/joaosilva
-Maria Souza,Desenvolvimento Web,Oferta,linkedin.com/in/mariasouza
-Pedro Santos,Gestão de Projetos,Oferta,linkedin.com/in/pedrosantos
-Ana Oliveira,Empreendedorismo,Oferta,linkedin.com/in/anaoliveira
-Carlos Mendes,Data Science,Oferta,linkedin.com/in/carlosmendes
-Laura Ferreira,Design Gráfico,Oferta,linkedin.com/in/lauraferreira
-Ricardo Almeida,Finanças,Oferta,linkedin.com/in/ricardoalmeida
-Isabela Costa,Recursos Humanos,Oferta,linkedin.com/in/isabelacosta
-Fernando Pereira,Engenharia Civil,Oferta,linkedin.com/in/fernandopereira
-Mariana Oliveira,Psicologia,Oferta,linkedin.com/in/marianaoliveira
-
+PESSOA,TEMA,lado,LINKEDIN
+João Silva,Marketing Digital,oferta,linkedin.com/in/joaosilva
+Maria Souza,Desenvolvimento Web,oferta,linkedin.com/in/mariasouza
+Pedro Santos,Gestão de Projetos,oferta,linkedin.com/in/pedrosantos
+Ana Oliveira,Empreendedorismo,oferta,linkedin.com/in/anaoliveira
+Carlos Mendes,Data Science,oferta,linkedin.com/in/carlosmendes
+Laura Ferreira,Design Gráfico,oferta,linkedin.com/in/lauraferreira
+Ricardo Almeida,Finanças,oferta,linkedin.com/in/ricardoalmeida
+Isabela Costa,Recursos Humanos,oferta,linkedin.com/in/isabelacosta
+Fernando Pereira,Engenharia Civil,oferta,linkedin.com/in/fernandopereira
+Mariana Oliveira,Psicologia,oferta,linkedin.com/in/marianaoliveira
