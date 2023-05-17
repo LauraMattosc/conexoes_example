@@ -2,7 +2,7 @@
 import pandas as pd
 
 
-df = pd.read_csv("dataset.csv")
+df = pd.read_csv("dataset.csv", encoding='latin-1')
 
 TEMAS = list(set(df["TEMA"].values))
 
